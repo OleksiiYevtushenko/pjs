@@ -2,7 +2,7 @@
 <table>
 <tr>
   
-<td><a href="https://OleksiiYevtushenko.github.io/pjs/2%20Загрузка%20моделей%20фигур/index.html" title="Вариант 1"><img src="https://OleksiiYevtushenko.github.io/pjs/screenshot/Hydrangeas.png" width="200" height="200"></a></td>
+<td><a href="https://OleksiiYevtushenko.github.io/pjs/chapter06_6_08_SeparationAndSeek_2022_11_06_17_30_39/index.html" title="Вариант 1"><img src="https://OleksiiYevtushenko.github.io/pjs/screenshot/Hydrangeas.png" width="200" height="200"></a></td>
 
 </tr>
 </table>
